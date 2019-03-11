@@ -29,7 +29,7 @@
                 responsive: true,
                 title: {
                     display: true,
-                    text: 'LPG Chart'
+                    text: 'Tank Conditions'
                 },
                 tooltips: {
                     mode: 'index',
@@ -161,7 +161,7 @@
                 responsive: true,
                 title: {
                     display: true,
-                    text: 'LPG Chart'
+                    text: 'Real time Tank conditions'
                 },
                 tooltips: {
                     mode: 'index',
