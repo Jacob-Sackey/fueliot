@@ -4,7 +4,7 @@
             data: {
                 labels: ['January', 'February', 'March'],
                 datasets: [{
-                    label: 'LPG Concentration',
+                    label: 'Fuel Head',
                     backgroundColor: 'rgb(255, 99, 132)',
                     borderColor: 'rgb(255, 99, 132)',
                     data: [
@@ -122,7 +122,7 @@
             data: {
                 labels: ['11.00 AM', '11.30 AM', '12.00 AM','12.30 AM','1.00 PM','11.00 AM', '11.30 AM', '12.00 AM','12.30 AM','1.00 PM'],
                 datasets: [{
-                    label: 'LPG Concentration',
+                    label: 'Fuel Level',
                     backgroundColor: 'rgb(255, 99, 132)',
                     borderColor: 'rgb(255, 99, 132)',
                     data: [
